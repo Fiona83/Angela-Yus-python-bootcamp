@@ -4,12 +4,14 @@ This repository contains the projects I did based on Angela Yu's 100 Days of pyt
 The projects are done on Replit and since I haven't found a way to link multiple Replit repls into one Github Repository, I just put links here, so that you can click the links and than read the codes or even fork the repl.
 
 ## Useful tools
-Free tools to draw flowcharts
+1. Free tools to draw flowcharts
+
 https://app.diagrams.net/
 
 This tool can draw online and save the charts on your harddisc. It also has a desktop version which you can download.
 
-Online code visualization
+2. Online code visualization
+
 [pythontutor.com](https://pythontutor.com/)
 
 Just paste your code into the website and click next. It simulates a debugging process and visualize the input and output of the code. It is very helpful to understand hwo the code runs and to find a bug.
