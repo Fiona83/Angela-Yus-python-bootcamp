@@ -50,3 +50,7 @@ Day 12 Guess the Number Game
 
 https://replit.com/@Fiona83/Day-12-guess-the-number-final
 
+Day 14 Higher Lower Game
+
+https://replit.com/@Fiona83/Day-14-higher-lower-final
+
