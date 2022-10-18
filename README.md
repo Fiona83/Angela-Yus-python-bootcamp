@@ -26,6 +26,7 @@ This online small tool helps you to generate ASCII Art to be used as logo for yo
 
 ## Projects
 ### Level: Beginner
+
 Day 7 Hangman Game
 
 https://replit.com/@Fiona83/Day-7-Hangman-final
@@ -57,6 +58,8 @@ https://replit.com/@Fiona83/Day-14-higher-lower-final
 Day 15 Coffee Machine
 
 https://replit.com/@Fiona83/Day-15-coffee-machine-final
+
+### Level: Intermediate
 
 Day 16 OOP Coffee Machine
 
