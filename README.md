@@ -54,3 +54,6 @@ Day 14 Higher Lower Game
 
 https://replit.com/@Fiona83/Day-14-higher-lower-final
 
+Day 15 Coffee Machine
+
+https://replit.com/@Fiona83/Day-15-coffee-machine-final
