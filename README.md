@@ -22,6 +22,12 @@ http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 This online small tool helps you to generate ASCII Art to be used as logo for your program.
 
+4. Open Trivia Database
+
+https://opentdb.com/
+
+This website is a free open source database for commen questions. You can use its api to generate a list of questions and use it for your code.
+
 
 
 ## Projects
@@ -64,3 +70,8 @@ https://replit.com/@Fiona83/Day-15-coffee-machine-final
 Day 16 OOP Coffee Machine
 
 https://replit.com/@Fiona83/Day-16-oop-coffee-machine-final
+
+Day 17 The Quiz Project
+
+https://replit.com/@Fiona83/Day-17-quiz-game-final
+
