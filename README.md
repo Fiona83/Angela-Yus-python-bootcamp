@@ -28,6 +28,11 @@ https://opentdb.com/
 
 This website is a free open source database for commen questions. You can use its api to generate a list of questions and use it for your code.
 
+5. RGB Tool from w3school
+
+https://www.w3schools.com/colors/colors_rgb.asp
+
+This online tool can help you to check the color with RGB values.
 
 
 ## Projects
@@ -74,4 +79,8 @@ https://replit.com/@Fiona83/Day-16-oop-coffee-machine-final
 Day 17 The Quiz Project
 
 https://replit.com/@Fiona83/Day-17-quiz-game-final
+
+Day 18 The Hirst Painting
+
+
 
