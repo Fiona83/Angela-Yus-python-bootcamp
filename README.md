@@ -92,6 +92,16 @@ Day 20 Snake Game
 
 https://replit.com/@Fiona83/Day-20-snake-game
 
+Day 23 Turtle Crossing
+
+https://replit.com/@Fiona83/Day-23-turtle-crossing-final
+
+**_For this project, I wrote it almost by myself. Therefore, my solution of how to generate the cars moving across the screen is different from Angela's. You can check my code and cross reference with Angela's solution to see which one you prefer._**
+
+Day 24 Mail Merge
+
+https://replit.com/@Fiona83/Day-24-mail-merge-final
+
 
 
 
