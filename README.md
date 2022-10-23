@@ -3,6 +3,8 @@ This repository contains the projects I did based on Angela Yu's 100 Days of pyt
 
 The projects are done on Replit and since I haven't found a way to link multiple Replit repls into one Github Repository, I just put links here, so that you can click the links and than read the codes or even fork the repl.
 
+**_Since I tried my best to work through the projects alone without watch the solution first. The code here might not be very same as Angela's final code. You can cross check my codes and Angela's to see which one you prefer._**
+
 ## Useful tools
 1. Free tools to draw flowcharts
 
@@ -96,13 +98,14 @@ Day 23 Turtle Crossing
 
 https://replit.com/@Fiona83/Day-23-turtle-crossing-final
 
-**_For this project, I wrote it almost by myself. Therefore, my solution of how to generate the cars moving across the screen is different from Angela's. You can check my code and cross reference with Angela's solution to see which one you prefer._**
 
 Day 24 Mail Merge
 
 https://replit.com/@Fiona83/Day-24-mail-merge-final
 
+Day 25 US States Game
 
+https://replit.com/@Fiona83/Day-25-us-states-final
 
 
 
