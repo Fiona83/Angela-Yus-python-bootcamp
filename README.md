@@ -111,6 +111,12 @@ Day 26 NATO Alphabet
 
 https://replit.com/@Fiona83/Day-26-NATO-alphabet-final
 
+Day 28 Pomodoro
+
+https://replit.com/@Fiona83/Day-28-Pomodoro-final
+
+For this project, I added more funktions to the promodoro such as pause the timer and resume it. Angela's solution didn't check some of the corner case such as if the user click the start button more than once. The original version has bug in this case.
+
 
 
 
