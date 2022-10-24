@@ -36,6 +36,12 @@ https://www.w3schools.com/colors/colors_rgb.asp
 
 This online tool can help you to check the color with RGB values.
 
+6. Color Hunt
+
+https://colorhunt.co/
+
+This is a very nice website with a database of beautiful colors. The colors are presented in HEX value which can be very easy to use in the code.
+
 
 ## Projects
 ### Level: Beginner
