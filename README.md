@@ -127,5 +127,8 @@ Day 29 Password Manager
 
 https://replit.com/@Fiona83/Day-29-password-manager
 
+By Day 30, the project is upgraded to store and read data in json and add exception handling.
+
+
 
 
