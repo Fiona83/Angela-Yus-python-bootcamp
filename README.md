@@ -121,25 +121,20 @@ Day 28 Pomodoro
 
 https://replit.com/@Fiona83/Day-28-Pomodoro-final
 
-```
-For this project, I added more funktions to the promodoro such as pause the timer and resume it. Angela's solution didn't check some of the corner case such as if the user click the start button more than once. The original version has bug in this case.
-```
+> For this project, I added more funktions to the promodoro such as pause the timer and resume it. Angela's solution didn't check some of the corner case such as if the user click the start button more than once. The original version has bug in this case.
 
 Day 29 Password Manager
 
 https://replit.com/@Fiona83/Day-29-password-manager
 
-```
-By Day 30, the project is upgraded to store and read data in json and add exception handling.
-```
+> By Day 30, the project is upgraded to store and read data in json and add exception handling.
 
 Day 31 Flash Card Project
 
 https://replit.com/@Fiona83/Day-31-flash-card-project-final
 
-```
-In this project, I managed to fix the bug which Angela didn't mention. When we keep on removing words from the list, evantually till some point, we have learned all the words and the list becomes empty. Then the whole click right button, remove words from the list etc will cause a bunch of bugs. In my version, this bug is handled. I provide a short version of csv file with only 5 words so that you can test the project with it. After learning all the words, instead of showing the next card which does not exist, my version will give you a congratulation message. And very important, the to_learn_file.csv will be deleted from the folder. An empty csv file will cause the program to crash when you next time run it.
-```
+> In this project, I managed to fix the bug which Angela didn't mention. When we keep on removing words from the list, evantually till some point, we have learned all the words and the list becomes empty. Then the whole click right button, remove words from the list etc will cause a bunch of bugs. In my version, this bug is handled. I provide a short version of csv file with only 5 words so that you can test the project with it. After learning all the words, instead of showing the next card which does not exist, my version will give you a congratulation message. And very important, the to_learn_file.csv will be deleted from the folder. An empty csv file will cause the program to crash when you next time run it.
+
 
 
 
