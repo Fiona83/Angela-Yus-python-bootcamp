@@ -42,6 +42,18 @@ https://colorhunt.co/
 
 This is a very nice website with a database of beautiful colors. The colors are presented in HEX value which can be very easy to use in the code.
 
+7. Latitude and Longtitude Finder
+
+https://www.latlong.net/
+
+On this website you can give a name of the city and it will return you the latitude and longtitude of your location. You can also pin on the map to get your latitude and longtitude.
+
+8. Sunset and Sunrise times API
+
+https://sunrise-sunset.org/api
+
+This API can give you the time of sunrise and sunset according your latitude and longtitude.
+
 
 ## Projects
 ### Level: Beginner
