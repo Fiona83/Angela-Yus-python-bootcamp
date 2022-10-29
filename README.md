@@ -147,9 +147,23 @@ https://replit.com/@Fiona83/Day-31-flash-card-project-final
 
 > In this project, I managed to fix the bug which Angela didn't mention. When we keep on removing words from the list, evantually till some point, we have learned all the words and the list becomes empty. Then the whole click right button, remove words from the list etc will cause a bunch of bugs. In my version, this bug is handled. I provide a short version of csv file with only 5 words so that you can test the project with it. After learning all the words, instead of showing the next card which does not exist, my version will give you a congratulation message. And very important, the to_learn_file.csv will be deleted from the folder. An empty csv file will cause the program to crash when you next time run it.
 
+Day 32 Birthday Wisher
 
+https://replit.com/@Fiona83/Day-32-birthday-wisher-final#birthdays.csv
 
+> In this project, I haven't used Angela's approach to create the dictionary like {(month, day): data_row}. Because this approach has one problem. If we have more than one person with the same birthday, it will only give you the last one in the csv file. Dictionary cannot have two identical keys. My version is able to send birthday emails to more than one person when they have the same birthday.
 
+Day 33 Kanye Quotes
+
+https://replit.com/@Fiona83/Day-33-kanye-quotes-final
+
+Day 33 ISS Overhead
+
+https://replit.com/@Fiona83/Day-33-issoverhead-final
+
+Day 34 Quizzler App
+
+https://replit.com/@Fiona83/Day-34-quizzler-app-final
 
 
 
