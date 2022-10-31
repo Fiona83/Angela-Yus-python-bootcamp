@@ -171,6 +171,8 @@ https://replit.com/@Fiona83/Day-35-rain-alert-final
 
 > For this project, instead of sending SMS I used Email as an alert. Because I don't want to sign up a bounch of account.
 
+> Explain the environment variable ting here!
+
 Day 36 Stock News
 
 https://replit.com/@Fiona83/Day-36-stock-news-final
