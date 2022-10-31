@@ -165,5 +165,17 @@ Day 34 Quizzler App
 
 https://replit.com/@Fiona83/Day-34-quizzler-app-final
 
+Day 35 Rain Alert
+
+https://replit.com/@Fiona83/Day-35-rain-alert-final
+
+> For this project, instead of sending SMS I used Email as an alert. Because I don't want to sign up a bounch of account.
+
+Day 36 Stock News
+
+https://replit.com/@Fiona83/Day-36-stock-news-final
+
+> For this project, also using Email instead of sending SMS. Interesting thing is the normal sendmail function in smtp library is not able to treat unicode. If you have unicode letters which is out of the range of ASCII, you will get a traceback. In order to solve this problem, I used email library to encode the message, so that the sendmail function can handle the unicode letters and emojis in the mail.
+
 
 
