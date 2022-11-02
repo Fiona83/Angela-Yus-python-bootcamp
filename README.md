@@ -173,7 +173,7 @@ https://replit.com/@Fiona83/Day-35-rain-alert-final
 
 > While doing this project, I was really struggling with the environment variables. When I used export in my terminal, the variable will be created temporary. When I closed my terminal window, the variables are gone. Then I have to googled a little bit and ended up writing export command in my .bash_profile file. After that, the variables are permenant set. However when I ran my code in pycharm or in terminal windows within Atom, they both returned None for my variables. After long digging, I finally found out that both pycharm and Atom have to be restarted after the variable been set, so that they can get the values from the system. So if you are also struggling with the environment varialbles, remember to restart your pycharm. 
 
-> Here is a document with different ways to import environment variables into a python project. You might want to check it if you do not want to mess up the system file. [Using Environment Variables in Python](./Using_Environment_Variables_in_Python.md)
+> Here is a document with different ways to import environment variables into a python project. You might want to check it if you do not want to mess up the system file. [Using Environment Variables in Python](./Using_Environment_Variable_in_Python.md)
 
 Day 36 Stock News
 
