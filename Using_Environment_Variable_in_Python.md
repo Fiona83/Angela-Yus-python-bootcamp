@@ -64,8 +64,7 @@ Within the configurations, we can add a new configuration, give it a name and se
 <div align=center><img src="images/pycharm_env_setting_2.png" width="800"></div>
 
 
-This is all the ways to introduce environment varialbes into python project. Hope you will find them useful.
-
+So far this is all I know about importing environment variables into a python project. See you then!
 
 
 
