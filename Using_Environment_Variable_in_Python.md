@@ -6,20 +6,22 @@ In this documentation, I will introduce three different ways to use einvironment
 
 ## 1. Export Environment Variables in Terminal
 
-The easiest way to define a environment variable is to use **export** command. As shown in the graphic below, we export a variable called "TEST_VAR" and then we can use it in python environment.
+The easiest way to define a environment variable is to use **"export"** command. As shown in the graphic below, we export a variable called "TEST_VAR" and then we can use it in python environment.
 
+<div align=center><img src="images/terminal_export_env_1.png" width="700"></div>
 
+The problem here is we cannot access the variable in Atom or in Pycharm. As shown below, we try to access the variable in our Atom environmant and it retruns *None* which causes a traceback later when we run the code. 
 
-The problem here is we cannot access the variable in Atom or in Pycharm. 
+<div align=center><img src="images/terminal_export_env_2.png" width="500"></div>
 
-![Variable not accessable in Atom](images/terminal_export_env_2.png)
+And if we close the terminal window and restart a new terminal, the variable is gone. 
 
-And if we close the terminal window and restart a new terminal, the variable is gone.
-
-![Variable disappear after restart](images/terminal_export_env_3.png)
+<div align=center><img src="images/terminal_export_env_3.png" width="500"></div>
 
 In order to solve this problem, we can export the variable permanantly into system file.
 
 ## 2. Export Environment Variables into the System File
+
+
 
 
