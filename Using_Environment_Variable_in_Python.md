@@ -8,7 +8,7 @@ In this documentation, I will introduce three different ways to use einvironment
 
 The easiest way to define a environment variable is to use **export** command. As shown in the graphic below, we export a variable called "TEST_VAR" and then we can use it in python environment.
 
-![Export Variable in Terminal](images/terminal_export_env_1.png)
+<div align=center><img src="images/terminal_export_env_1.png" width="800"></div>
 
 The problem here is we cannot access the variable in Atom or in Pycharm. 
 
