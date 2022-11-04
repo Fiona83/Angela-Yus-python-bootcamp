@@ -69,6 +69,13 @@ http://jsonviewer.stack.hu/
 
 ## Useful APIs
 
+1. Kanye West Quotes 
+
+Website: https://kanye.rest/
+
+API Endpoint https://api.kanye.rest
+
+This API is a free access REST API. It returns a random quote in json format. 
 
 
 ## Projects
