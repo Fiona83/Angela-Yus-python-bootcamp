@@ -5,6 +5,15 @@ The projects are done on Replit and since I haven't found a way to link multiple
 
 **_Since I tried my best to work through the projects alone without watch the solution first. The code here might not be very same as Angela's final code. You can cross check my codes and Angela's to see which one you prefer._**
 
+## Index
+[Useful tools](#useful-tools)
+
+[Useful APIs](#useful-apis)
+
+[Projects](#projects)
+- [Level: Beginner](#level-beginner)
+- [Level: Intermediate](#level-intermediate)
+
 ## Useful tools
 1. Free tools to draw flowcharts
 
