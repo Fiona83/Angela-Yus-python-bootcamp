@@ -26,3 +26,20 @@ Then from the sidebar choose **"APIs & Services" -> "Credentials"**. Here I didn
 The next step is share the google sheet you want to access with this newly created service account. Just visit your google sheet and on the top right side click **"Share"** and then add the email address of the service account into it. The type can be **"Editor"** so that it can read and write the sheet.
 
 ## Using API in Python Code
+Now the preparation work is done and we can begin to read and write our google sheet. Below is am example of the python code from my flight alert project. 
+
+```Python
+from googleapiclient.discovery import build
+from google.oauth2 import service_account
+
+# create google sheets API credential
+SERVICE_ACCOUNT_FILE = 'google_key.json'
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+CRED = service_account.Credentials.from_service_account_file(
+    SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+
+SHEET_ID = '1rfkuamS80WAqySzzAuI2P_KftXLcA0jleSMecbmPrR0'
+PRICE_RANGE_NAME = 'prices'
+USER_RANGE_NAME = "users"
+
+```
