@@ -6,7 +6,7 @@ The projects are done on Replit and since I haven't found a way to link multiple
 **_Since I tried my best to work through the projects alone without watch the solution first. The code here might not be very same as Angela's final code. You can cross check my codes and Angela's to see which one you prefer._**
 
 ## Index
-[Useful tools](#useful-tools)
+[Useful Tools](#useful-tools)
 
 [Useful APIs](#useful-apis)
 
@@ -14,7 +14,7 @@ The projects are done on Replit and since I haven't found a way to link multiple
 - [Level: Beginner](#level-beginner)
 - [Level: Intermediate](#level-intermediate)
 
-## Useful tools
+## Useful Tools
 1. Free tools to draw flowcharts
 
 https://app.diagrams.net/
@@ -33,37 +33,25 @@ http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 This online small tool helps you to generate ASCII Art to be used as logo for your program.
 
-4. Open Trivia Database
-
-https://opentdb.com/
-
-This website is a free open source database for commen questions. You can use its api to generate a list of questions and use it for your code.
-
-5. RGB Tool from w3school
+4. RGB Tool from w3school
 
 https://www.w3schools.com/colors/colors_rgb.asp
 
 This online tool can help you to check the color with RGB values.
 
-6. Color Hunt
+5. Color Hunt
 
 https://colorhunt.co/
 
 This is a very nice website with a database of beautiful colors. The colors are presented in HEX value which can be very easy to use in the code.
 
-7. Latitude and Longtitude Finder
+6. Latitude and Longtitude Finder
 
 https://www.latlong.net/
 
 On this website you can give a name of the city and it will return you the latitude and longtitude of your location. You can also pin on the map to get your latitude and longtitude.
 
-8. Sunset and Sunrise times API
-
-https://sunrise-sunset.org/api
-
-This API can give you the time of sunrise and sunset according your latitude and longtitude.
-
-9. Online JSON Viewer
+7. Online JSON Viewer
 
 http://jsonviewer.stack.hu/
 
@@ -73,9 +61,35 @@ http://jsonviewer.stack.hu/
 
 Website: https://kanye.rest/
 
-API Endpoint https://api.kanye.rest
+API Endpoint: https://api.kanye.rest
 
 This API is a free access REST API. It returns a random quote in json format. 
+
+2. Sunset and Sunrise times API
+
+https://sunrise-sunset.org/api
+
+This API can give you the time of sunrise and sunset according your latitude and longtitude. It is also free accessable.
+
+3. ISS (International Space Staton) Current Location API
+
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
+This API returns the current location (Lontitude, Latitude) of ISS in json format. It is free accessable.
+
+4. Open Trivia Databaset
+
+https://opentdb.com/
+
+This website is a free open source database for commen questions. You can use its api to generate a list of questions and use it for your code. The API can include parameters to create a subset of the questions.
+
+5. Openweather API
+
+https://openweathermap.org/api
+
+With different parameters this API returns weather forecast in different scope. In order to use this API, a registration is required. After you sign up for the API, you will have a API key as credential. For the "Current Weather Data" the access is free without any subscription. However for Angela's project with hourly weather forecast, you have to use the **"One Call API"**. It requires a subscription with credit card. However it has 1000 requests free every day. So when you subscribe the API, remember to limit the daily requests down to 1000 *(By default it is set to 2000)*. In this case you don't need to worry about exceed the limit and have to pay money for the requests.
+
+The response is in json format. Use the [online json viewer](http://jsonviewer.stack.hu/) to read the data will make your life much easier.
 
 
 ## Projects
