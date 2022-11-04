@@ -121,10 +121,13 @@ Day 14 [Higher Lower Game](https://replit.com/@Fiona83/Day-14-higher-lower-final
 Day 15 [Coffee Machine](https://replit.com/@Fiona83/Day-15-coffee-machine-final)
 
 ### Level: Intermediate
+#### OOP
 
 Day 16 [OOP Coffee Machine](https://replit.com/@Fiona83/Day-16-oop-coffee-machine-final)
 
 Day 17 [The Quiz Project](https://replit.com/@Fiona83/Day-17-quiz-game-final)
+
+#### Turtle GUI
 
 Day 18 [The Hirst Painting](https://replit.com/@Fiona83/Day-18-the-hirst-painting-final)
 
@@ -134,11 +137,15 @@ Day 20 [Snake Game](https://replit.com/@Fiona83/Day-20-snake-game)
 
 Day 23 [Turtle Crossing](https://replit.com/@Fiona83/Day-23-turtle-crossing-final)
 
+#### File Reading, Writing, List Comprehension
+
 Day 24 [Mail Merge](https://replit.com/@Fiona83/Day-24-mail-merge-final)
 
 Day 25 [US States Game](https://replit.com/@Fiona83/Day-25-us-states-final)
 
 Day 26 [NATO Alphabet](https://replit.com/@Fiona83/Day-26-NATO-alphabet-final)
+
+#### Tkinter GUI
 
 Day 28 [Pomodoro](https://replit.com/@Fiona83/Day-28-Pomodoro-final)
 
@@ -151,6 +158,8 @@ Day 29 [Password Manager](https://replit.com/@Fiona83/Day-29-password-manager)
 Day 31 [Flash Card Project](https://replit.com/@Fiona83/Day-31-flash-card-project-final)
 
 > In this project, I managed to fix the bug which Angela didn't mention. When we keep on removing words from the list, evantually till some point, we have learned all the words and the list becomes empty. Then the whole click right button, remove words from the list etc will cause a bunch of bugs. In my version, this bug is handled. I provide a short version of csv file with only 5 words so that you can test the project with it. After learning all the words, instead of showing the next card which does not exist, my version will give you a congratulation message. And very important, the to_learn_file.csv will be deleted from the folder. An empty csv file will cause the program to crash when you next time run it.
+
+#### Sending Emails & Using APIs
 
 Day 32 [Birthday Wisher](https://replit.com/@Fiona83/Day-32-birthday-wisher-final)
 
