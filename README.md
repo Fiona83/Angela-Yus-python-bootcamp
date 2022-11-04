@@ -194,7 +194,7 @@ Day 40 [Flight Alert](https://replit.com/@Fiona83/Day-40-flight-alert-with-googl
 
 > In Angela's original project, she used Sheety API to read and write Google sheets. However Sheety offers only 200 rows of free requests in one month, which I have used up in one day. Therefore, I changed to use Google Sheets API. 
 
-> Besides, I change the home city to Berlin and add some exception handling because there is no flight from Berlin to Bali even with 1 stop over. 
+> Besides, I changed the home city to Berlin and the currency to Euro. And I added some exception handling because there is no flight from Berlin to Bali even with 1 stop over. 
 
 
 
