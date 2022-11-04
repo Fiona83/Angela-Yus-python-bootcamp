@@ -19,9 +19,7 @@ The projects are done on Replit and since I haven't found a way to link multiple
 
 This tool can draw online and save the charts on your harddisc. It also has a desktop version which you can download.
 
-2. Online code visualization / debugger
-
-[pythontutor.com](https://pythontutor.com/)
+2. [Online code visualization / debugger pythontutor.com](https://pythontutor.com/)
 
 Just paste your code into the website and click next. It simulates a debugging process and visualize the input and output of the code. It is very helpful to understand hwo the code runs and to debug the code.
 
