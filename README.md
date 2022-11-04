@@ -166,6 +166,8 @@ Day 31 [Flash Card Project](https://replit.com/@Fiona83/Day-31-flash-card-projec
 
 #### Sending Emails and Using APIs
 
+_**From here on, you cannot run the project directly in Replit. Because I hide all my passwords and tokens in environment varialbls. Since you don't have access to my envrionment variables, the code will probably return a traceback. You have to replace all the email address, password, ids and API tokens to your own to run the code.**_
+
 Day 32 [Birthday Wisher](https://replit.com/@Fiona83/Day-32-birthday-wisher-final)
 
 > In this project, I haven't used Angela's approach to create the dictionary like {(month, day): data_row}. Because this approach has one problem. If we have more than one person with the same birthday, it will only give you the last one in the csv file. Dictionary cannot have two identical keys. My version is able to send birthday emails to more than one person when they have the same birthday.
