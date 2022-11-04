@@ -87,9 +87,46 @@ This website is a free open source database for commen questions. You can use it
 
 https://openweathermap.org/api
 
-With different parameters this API returns weather forecast in different scope. In order to use this API, a registration is required. After you sign up for the API, you will have a API key as credential. For the "Current Weather Data" the access is free without any subscription. However for Angela's project with hourly weather forecast, you have to use the **"One Call API"**. It requires a subscription with credit card. However it has 1000 requests free every day. So when you subscribe the API, remember to limit the daily requests down to 1000 *(By default it is set to 2000)*. In this case you don't need to worry about exceed the limit and have to pay money for the requests.
+With different parameters this API returns weather forecast in different scope. In order to use this API, a registration is required. After you sign up for the API, you will have a API key as credential. For the "Current Weather Data" the access is free without any subscription. However for Angela's project with hourly weather forecast, you have to use the **"One Call API"**. **It requires a subscription with credit card.** However it has 1000 requests free every day. So when you subscribe the API, remember to limit the daily requests down to 1000 *(By default it is set to 2000)*. In this case you don't need to worry about exceed the limit and have to pay money for the requests.
 
 The response is in json format. Use the [online json viewer](http://jsonviewer.stack.hu/) to read the data will make your life much easier.
+
+6. Twilio API
+
+https://www.twilio.com/try-twilio
+
+This API can send SMS to your phone number. It reqires a registration and with a start bonus for about 15 dollors you can try it for free. Within the [Twilio SMS Python Quickstart Document](https://www.twilio.com/docs/sms/quickstart/python) you can even find a sample code to start with. You just need to change the ID and the token to your own and also the phone numbers, both the sender's number and the receiver's number. Twilio will give you a virtual number as sender's number. 
+
+7. Free Stock APIs
+
+https://www.alphavantage.co/
+
+This API returns stock price in different scopes. A registration is required. As individual you are allowed to use this API for free.
+
+8. News API
+
+https://newsapi.org/
+
+This API gives you the news all around the world, even in different language. A registration for API key is required. And it is free for non-commerical purpose.
+
+9. Pixela API
+
+https://pixe.la/
+
+This is a very interesting API. It allows you to post, put and delete data from your pixela graphic. You can use it to generate a very nice pixel graphic to trace your habbits or activities. The API doesn't require a normal registration but in order to use it you do have to create a user first. You can choose the user name and the token as you like. After creating the user you are able to create and edit your pixel graphic.
+
+10. Nutrition and Exercise API
+
+https://www.nutritionix.com/business/api
+
+This API can track your nutritions and exercises. The interest thing here is you can use human language to decribe your activity. For example you can tell the API that you ran for 3 kilometer and it will automatically catergory your activitiy and calculate according to your age and gender the calories. For normal individuals the API is free to use.
+
+11. Sheety API
+
+https://sheety.co/
+
+This API allows you to interactive with your google sheets. You can read, write and update the rows in your google sheet. However it allows only 200 rows requests per month which will be very fast 
+
 
 
 ## Projects
