@@ -33,13 +33,39 @@ from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
 # create google sheets API credential
-SERVICE_ACCOUNT_FILE = 'google_key.json'
+SERVICE_ACCOUNT_FILE = 'google_key.json' # Here should be your json file generated from google
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 CRED = service_account.Credentials.from_service_account_file(
     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
-SHEET_ID = '1rfkuamS80WAqySzzAuI2P_KftXLcA0jleSMecbmPrR0'
-PRICE_RANGE_NAME = 'prices'
+# This is the ID of your sheet
+SHEET_ID = '1rfkuamS80WAqySzzAuI2P_KftXLcA0jleSMecbmPrR0' 
+# For Google API while reading or writing you shoul always define a data range. I will explain it later.
+PRICE_RANGE_NAME = 'prices' 
 USER_RANGE_NAME = "users"
 
+# create connection with Sheets API
+service = build('sheets', 'v4', credentials=CRED)
+sheet_connect = service.spreadsheets()
+
+# read data
+result = sheet_connect.values().get(spreadsheetId=SHEET_ID,
+                                    range=PRICE_RANGE_NAME).execute()
+data_sheet = result.get('values', [])
+
+# write data
+sheet_connect.values().update(spreadsheetId=SHEET_ID,
+                              range=PRICE_RANGE_NAME, valueInputOption="USER_ENTERED",
+                              body={"values": data_sheet}).execute()
+
+# append data
+response = sheet_connect.values().append(spreadsheetId=SHEET_ID,
+                                         range=USER_RANGE_NAME, valueInputOption="USER_ENTERED",
+                                         body={"values": user_info}).execute()
+print(f"{(response.get('updates').get('updatedCells'))} cells appended.")
+
+
 ```
+
+
+
