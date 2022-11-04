@@ -166,7 +166,7 @@ Day 31 [Flash Card Project](https://replit.com/@Fiona83/Day-31-flash-card-projec
 
 #### Sending Emails and Using APIs
 
-_**From here on, you cannot run the project directly in Replit. Because I hide all my passwords and tokens in environment varialbls. Since you don't have access to my envrionment variables, the code will probably return a traceback. You have to replace all the email address, password, ids and API tokens to your own to run the code.**_
+_**From here on, you cannot run the project directly in Replit. Because I hide all my passwords and tokens in environment varialbles. Since you don't have access to my envrionment variables, the code will probably return a traceback. You have to replace all the email address, password, ids and API tokens to your own to run the code.**_
 
 Day 32 [Birthday Wisher](https://replit.com/@Fiona83/Day-32-birthday-wisher-final)
 
