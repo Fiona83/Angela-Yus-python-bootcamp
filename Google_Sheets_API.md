@@ -9,7 +9,7 @@ First of all, please read the [Python Quickstart](https://developers.google.com/
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 
-2. [create a Google Cloud Project](https://console.cloud.google.com/projectcreate)
+2. [Create a Google Cloud Project](https://console.cloud.google.com/projectcreate)
 
 Just give some project name to it and click create.
 
