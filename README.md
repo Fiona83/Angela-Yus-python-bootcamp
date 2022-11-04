@@ -190,6 +190,12 @@ Day 36 [Stock News](https://replit.com/@Fiona83/Day-36-stock-news-final)
 
 > For this project, also using Email instead of sending SMS. Interesting thing is the normal sendmail function in smtp library is not able to treat unicode. If you have unicode letters which is out of the range of ASCII, you will get a traceback. In order to solve this problem, I used email library to encode the message, so that the sendmail function can handle the unicode letters and emojis in the mail.
 
+Day 40 [Flight Alert](https://replit.com/@Fiona83/Day-40-flight-alert-with-google-api)
+
+> In Angela's original project, she used Sheety API to read and write Google sheets. However Sheety offers only 200 rows of free requests in one month, which I have used up in one day. Therefore, I changed to use Google Sheets API. 
+
+> Besides, I change the home city to Berlin and add some exception handling because there is no flight from Berlin to Bali even with 1 stop over. 
+
 
 
 
