@@ -49,7 +49,7 @@ This website can host your python code and run it automatically according to you
 
 1. Kanye West Quotes 
 
-[Website](https://kanye.rest/)   [API Endpoint](https://api.kanye.rest)
+[Website](https://kanye.rest/)  &emsp;   [API Endpoint](https://api.kanye.rest)
 
 This API is a free access REST API. It returns a random quote in json format. 
 
