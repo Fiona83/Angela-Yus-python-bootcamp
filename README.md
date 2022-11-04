@@ -125,7 +125,13 @@ This API can track your nutritions and exercises. The interest thing here is you
 
 https://sheety.co/
 
-This API allows you to interactive with your google sheets. You can read, write and update the rows in your google sheet. However it allows only 200 rows requests per month which will be very fast 
+This API allows you to interactive with your google sheets. You can read, write and update the rows in your google sheet. However it allows only 200 rows requests per month which will be very fast used up. Therefore I recommend not to use this sheety API but the original google sheets API.
+
+12. Google Sheets API
+
+https://developers.google.com/sheets/api/
+
+Google sheets API can be used to read, write and update the google sheets. 
 
 
 
