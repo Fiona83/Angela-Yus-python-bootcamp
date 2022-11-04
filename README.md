@@ -13,6 +13,11 @@ The projects are done on Replit and since I haven't found a way to link multiple
 [Projects](#projects)
 - [Level: Beginner](#level-beginner)
 - [Level: Intermediate](#level-intermediate)
+  - [OOP](#oop)
+  - [Turtle GUI](#turtle-gui)
+  - [File Reading, Writing, List Comprehension](#file-reading-writing-list-comprehension)
+  - [Tkinter GUI](#tkinter-gui)
+  - [Sending Emails and Using APIs](#sending-emails-and-using-apis)
 
 ## Useful Tools
 1. [Free tools to draw flowcharts](https://app.diagrams.net/)
@@ -159,7 +164,7 @@ Day 31 [Flash Card Project](https://replit.com/@Fiona83/Day-31-flash-card-projec
 
 > In this project, I managed to fix the bug which Angela didn't mention. When we keep on removing words from the list, evantually till some point, we have learned all the words and the list becomes empty. Then the whole click right button, remove words from the list etc will cause a bunch of bugs. In my version, this bug is handled. I provide a short version of csv file with only 5 words so that you can test the project with it. After learning all the words, instead of showing the next card which does not exist, my version will give you a congratulation message. And very important, the to_learn_file.csv will be deleted from the folder. An empty csv file will cause the program to crash when you next time run it.
 
-#### Sending Emails & Using APIs
+#### Sending Emails and Using APIs
 
 Day 32 [Birthday Wisher](https://replit.com/@Fiona83/Day-32-birthday-wisher-final)
 
