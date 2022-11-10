@@ -50,6 +50,15 @@ On this website you can give a name of the city and it will return you the latit
 
 This website can host your python code and run it automatically according to your schedule.
 
+9. [Flat Icon](https://www.flaticon.com/)
+
+This website provides hundreds of thousands icons, you can use for your website design.
+
+10. [Google Fonts](https://fonts.google.com/)
+
+Here you can find beautiful fonts to embed into your website.
+
+
 ## Useful APIs
 
 1. Kanye West Quotes 
