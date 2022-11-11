@@ -18,6 +18,7 @@ The projects are done on Replit and since I haven't found a way to link multiple
   - [File Reading, Writing, List Comprehension](#file-reading-writing-list-comprehension)
   - [Tkinter GUI](#tkinter-gui)
   - [Sending Emails and Using APIs](#sending-emails-and-using-apis)
+  - [Front-end Web Develop: HTML, CSS](#front-end-web-develop-html-css)
 
 ## Useful Tools
 1. [Free tools to draw flowcharts](https://app.diagrams.net/)
@@ -212,6 +213,9 @@ Day 40 [Flight Alert](https://replit.com/@Fiona83/Day-40-flight-alert-with-googl
 
 > Besides, I changed the home city to Berlin and the currency to Euro. And I added some exception handling because there is no flight from Berlin to Bali even with 1 stop over. 
 
+#### Front-end Web Develop: HTML, CSS
+
+Day 41 - 
 
 
 
