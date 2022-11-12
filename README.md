@@ -215,7 +215,9 @@ Day 40 [Flight Alert](https://replit.com/@Fiona83/Day-40-flight-alert-with-googl
 
 #### Front-end Web Develop: HTML, CSS
 
-Day 41 - 
+Day 41 - 44 [Personal Website](https://fiona83.github.io/)
+
+In these parts, I managed to create my very first personal website using HTML and CSS. The website is now hosted on GitHub Reporsitory. If you are interested in the code, you can find them in [this reporsitory](https://github.com/Fiona83/fiona83.github.io).
 
 
 
